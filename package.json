@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ngrkajac/playground/issues"
   },
-  "homepage": "https://github.com/ngrkajac/playground#readme"
+  "homepage": "https://github.com/ngrkajac/playground#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
